@@ -51,6 +51,6 @@ export default function Page() {
         </div>
       </div>
     </main> 
-    // 이게 뭐임 zzz gkgkgk zdfdfd fdsafadsfsdafa
+    // 이게 뭐임 zzz gkgkgk zdfdfd fdsafadsfsdafa55454
   );
 }
